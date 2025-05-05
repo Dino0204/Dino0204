@@ -14,20 +14,6 @@
   </a>
 </p>
 
-## Tools(IDE)
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,figma" />
-  </a>
-</p>
-
-## Studying
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,threejs" />
-  </a>
-</p>
-
 ## Contact
 <p align="center">
   <a href="https://skillicons.dev">
