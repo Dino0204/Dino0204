@@ -1,10 +1,10 @@
 # Dino0204 👋🦖
 
 <div>
-
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dino0204)](https://solved.ac/dino0204)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dino0204)](https://github.com/anuraghazra/github-readme-stats)
   
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dino0204)](https://solved.ac/dino0204)
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dino0204" alt="GitHub Streak Stats" />  
 </div>
 
 ## Skill
