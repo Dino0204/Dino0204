@@ -1,12 +1,10 @@
-# Dino0204 👋🦖
+## Github Stats
 <div align="center">
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dino0204&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dino0204&theme=dracula&hide_border=false" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dino0204&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" />
-    <img height="180em" src="http://mazassumnida.wtf/api/generate_badge?boj=dino0204" />
-  </div>
-</div>  
+  <a href="https://github.com/Dino0204">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dino0204&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dino0204&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+  </a>
+</div>
 
 ## Skill
 <p align="center">
@@ -15,9 +13,43 @@
   </a>
 </p>
 
-## Contact
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,linkedin,gmail,notion" />
-  </a>
-</p>
+## My favorite tools and technologies ⚙️
+
+> Tools and technologies that I have worked with and am interested in
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="js" />
+      <br>Javascript
+    </td>
+  </tr>
+  <tr>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+      <br>JQuery
+    </td>
+  </tr>
+</table>
