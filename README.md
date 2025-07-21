@@ -6,14 +6,8 @@
   </a>
 </div>
 
-## Skill
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,java,py,nextjs,react,tailwind,ts" />
-  </a>
-</p>
 
-## My favorite tools and technologies ⚙️
+## ⚙️Skills
 
 > Tools and technologies that I have worked with and am interested in
 
@@ -37,19 +31,32 @@
         <img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="js" />
       <br>Javascript
     </td>
-  </tr>
-  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ts" width="65" height="65" alt="ts" />
+      <br>Typescript
+    </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
+        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="c" />
+      <br>C
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="java" />
+      <br>Java
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" />
+      <br>Next.js
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" />
+      <br>React
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
     </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
-    </td>
+  </tr>
+  <tr>
+
   </tr>
 </table>
