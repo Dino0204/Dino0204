@@ -8,9 +8,6 @@
 
 
 ## ⚙️Skills
-
-> Tools and technologies that I have worked with and am interested in
-
 <table>
   <tr>
     <td align="center" width="96">
