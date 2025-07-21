@@ -1,14 +1,22 @@
-## Github Stats
-<div align="center">
-  <a href="https://github.com/Dino0204">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dino0204&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dino0204&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
-  </a>
-</div>
+## 🪽 Github Stats
+<table align="center">
+  <tr>
+    <td align="center">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dino0204&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dino0204&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+    </td>
+  </tr>
+  <tr>
+    <td aligh="center">
+      <img height="180em" src="http://mazassumnida.wtf/api/generate_badge?boj=dino0204" />
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dino0204&theme=algolia&hide_border=false" />
+    </td>
+  </tr>
+</table>
 
 
-## ⚙️Skills
-<table>
+## ⚙️ Skills
+<table align="center">
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
