@@ -1,6 +1,6 @@
 
 
-## 🪽 Github Stats
+## 🪽 Github & BOJ Stats
 <table border="1" align="center">
   <tr>
     <td align="center">
@@ -11,13 +11,13 @@
   </tr>
   <tr>
     <td align="center">
-      <img height="180em" src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=Dino0204" width="800" />
+      <img  width="800" height="180em" src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=Dino0204" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dino0204&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dino0204&theme=algolia&hide_border=false" />
+      <img  width="400" height="180em" src="https://github-readme-stats.vercel.app/api?username=Dino0204&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+      <img  width="400" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dino0204&theme=algolia&hide_border=true" />
     </td>
   </tr>
 </table>
@@ -26,7 +26,7 @@
 <table border="1" align="center">
   <tr>
     <td rowspan='3'>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dino0204&langs_count=8&theme=algolia&hide_border=true" width="500"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dino0204&langs_count=8&theme=algolia&hide_border=true" width="400"/>
       <td align="center"  width="100">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
         <br>HTML
