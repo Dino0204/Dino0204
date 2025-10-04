@@ -1,7 +1,6 @@
-
-
 ## 🪽 Github & BOJ Stats
 <table border="1" align="center">
+  
   <tr>
     <td align="center">
       <a href="https://github.com/devxb/gitanimals">
@@ -76,3 +75,8 @@
     </td>
   </tr>
 </table>
+
+## 💭 Contact
+<a href="https://gsm-route-072.notion.site/6-09-10-265a1da017068032ad8ee346aea45ffe"><img src="https://img.shields.io/badge/Portfolio-555?style=for-the-badge&logo=notion&logoColor=white" /></a>
+
+
