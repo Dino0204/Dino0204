@@ -15,9 +15,9 @@
   </tr>
   <tr>
     <td align="center">
-      <img height="180em" 
+      <img width="400" height="180em" 
         src="https://github-readme-stats.vercel.app/api?username=Dino0204&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-      <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app?user=Dino0204&theme=algolia&hide_border=true" alt="GitHub Streak" />
+      <img width="400" height="180em" src="https://github-readme-streak-stats-eight.vercel.app?user=Dino0204&theme=algolia&hide_border=true" alt="GitHub Streak" />
   </tr>
 </table>
 
