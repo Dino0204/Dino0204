@@ -77,6 +77,6 @@
 </table>
 
 ## 💭 Contact
-<a href="https://gsm-route-072.notion.site/6-09-10-265a1da017068032ad8ee346aea45ffe"><img src="https://img.shields.io/badge/Portfolio-555?style=for-the-badge&logo=notion&logoColor=white" /></a>
+<a href="https://kimjoonhyeok-portfolio-dino.vercel.app"><img src="https://img.shields.io/badge/Portfolio-555?style=for-the-badge&logo=figma&logoColor=white" /></a>
 
 
