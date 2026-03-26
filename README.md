@@ -74,7 +74,7 @@
       <br>Tailwind
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="threejs" />
+      <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="threejs" />
       <br>Three.js(R3F)
     </td>
   </tr>
