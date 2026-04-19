@@ -1,4 +1,4 @@
-## 🪽 Github & BOJ Stats
+## 🪽 Github
 <table border="1" align="center">
   
   <tr>
@@ -8,12 +8,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <img  width="800" height="180em" src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=Dino0204" />
-    </td>
-  </tr>
-  <tr>
     <td align="center">
       <img width="400" height="180em" 
         src="https://github-readme-stats.vercel.app/api?username=Dino0204&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
