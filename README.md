@@ -13,6 +13,11 @@
         src="https://github-readme-stats.vercel.app/api?username=Dino0204&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
       <img width="400" height="180em" src="https://github-readme-streak-stats-eight.vercel.app?user=Dino0204&theme=algolia&hide_border=true" alt="GitHub Streak" />
   </tr>
+  <tr>
+     <td align="center">
+      <a href="https://dev8ersonality.vercel.app/result/Dino0204"><img src="https://dev8ersonality.vercel.app/api/badge/Dino0204/card" alt="dev 8ersonality card" /></a>
+    </td>
+  </tr>
 </table>
 
 ## ⚙️ Skills
