@@ -80,6 +80,12 @@
 </table>
 
 ## 💭 Contact
-<a href="https://kimjoonhyeok-portfolio-dino.vercel.app"><img src="https://img.shields.io/badge/Portfolio-555?style=for-the-badge&logo=figma&logoColor=white" /></a>
+<a href="https://kimjoonhyeok-portfolio-dino.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-555?style=for-the-badge&logo=figma&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/dino0204/">
+  <img src="https://img.shields.io/badge/LinkedIn-555?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 
