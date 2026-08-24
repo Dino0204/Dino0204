@@ -18,6 +18,11 @@
       <a href="https://dev8ersonality.vercel.app/result/Dino0204"><img src="https://dev8ersonality.vercel.app/api/badge/Dino0204/card" alt="dev 8ersonality card" /></a>
     </td>
   </tr>
+  <tr>
+   <td align="center">
+     <a href="https://www.git-ranker.com/ko/users/Dino0204"><img src="https://www.git-ranker.com/api/v1/badges/U_kgDOCbauMQ" alt="Git Ranker Badge" /></a>
+    </td>
+  </tr>
 </table>
 
 ## ⚙️ Skills
